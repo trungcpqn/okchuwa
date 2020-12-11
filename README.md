@@ -9,7 +9,7 @@
 
 # Github 
 
-SInh viên: là Phùng Duy Quyền
+SInh viên: Pham Van Trung
 
 ![image]()
 
@@ -45,7 +45,7 @@ Framework là một thư viện với các hàm được xây dựng sẵn phụ
 
 ## Intro Profile
 
-**Email** : quyen3714@gmail.com
+**Email** : trungcpqn45@gmail.com
 
 <!-- ## Update Repo Map
 
